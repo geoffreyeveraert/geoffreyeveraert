@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a React Native app using firebase and themoviedb API
 
 <!--
 **geoffreyeveraert/geoffreyeveraert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
